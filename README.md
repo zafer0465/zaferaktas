@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Zafer!
 
-🚀 Teknolojiyle gerçek dünya sorunlarına çözüm üretmeyi hedefleyen, çok yönlü bir **Yazılım Mühendisliği** öğrencisiyim. Düşük seviyeli sistem programlamadan yüksek seviyeli yapay zeka algoritmalarına kadar geniş bir teknik altyapıya sahibim.
+🚀 Teknolojiyle gerçek dünya sorunlarına çözüm üretmeyi hedefleyen, çok yönlü bir **Yazılım Mühendisliği** öğrencisiyim.
 
 💻 **Programlama Dilleri & Teknolojiler:** `Python`, `C`, `C++`, `Java`, `C#`, `PHP`, `JavaScript`, `HTML5/CSS3`, `SQL`
 
